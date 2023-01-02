@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbeebProPlus
+- 👋 Hi, I’m Abeeb
 - 👀 I’m interested in building software
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on software projects
