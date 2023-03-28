@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abeeb
-- 👀 I’m interested in building software
+- 👀 I’m interested in providing solutions to problems
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me: abeebahmad24@gmail.com
